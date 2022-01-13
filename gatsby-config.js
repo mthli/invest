@@ -50,6 +50,9 @@ module.exports = {
           '基础知识': [
             // TODO
           ],
+          '宏观经济': [
+            // TODO
+          ],
           '公司调研': [
             // TODO
           ],
