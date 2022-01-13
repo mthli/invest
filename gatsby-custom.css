@@ -1,0 +1,37 @@
+body {
+  color: #2F353F; /* colors.black.lighter */
+}
+
+/* Inline */
+:not(pre) > code[class*="language-"] {
+  line-break: anywhere;
+  white-space: pre-wrap;
+}
+
+.book-image {
+  display: block;
+  float: left;
+  margin-right: 24px;
+  max-height: 480px;
+}
+
+.certer-image {
+  display: block;
+  margin: 0 auto 24px auto;
+  max-width: 480px;
+}
+
+.box-shadow {
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.title-sidebar {
+  font-weight: 600;
+  font-size: 1.125rem;
+  color: #2F353F;
+}
+
+.gatsby-code-title {
+  overflow: scroll;
+  padding-right: 19px;
+}
