@@ -1,5 +1,7 @@
 # 笨办法学投资
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/603a10e5-894c-4ca0-b625-fb4ef94b0f76/deploy-status)](https://app.netlify.com/sites/quirky-swartz-282f29/deploys)
+
 Learning Invest the Hard Way 💸
 
 <https://invest.mthli.com>
