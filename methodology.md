@@ -1,4 +1,5 @@
----
+# Methodology
+
 ## 2026-05-29 — Methodology
 
 - RULE: 在强趋势 regime 下,RSI / MA20% 等技术指标的 🔴 overextended 信号应作为"入场抑制器",而不是"卖出信号";持仓管理改用 trail stop + 结构性 catalyst 监控

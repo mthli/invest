@@ -1,4 +1,5 @@
----
+# ARM
+
 ## 2026-05-29 — Thesis
 
 - TICKER: ARM
