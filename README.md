@@ -1,6 +1,6 @@
 # invest
 
-Invest with Claude Code 💸
+Invest with Claude Code 🤖
 
 ## License
 
