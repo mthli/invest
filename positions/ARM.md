@@ -12,7 +12,7 @@
 - CONVICTION: med
 - ENTRY_PRICE: (空仓,等回调 — 当前 ~\$345,RSI 76,MA20% +42,momentum-scan Sig 🔴 overextended。理想入场区间在 MA50 附近,通常 -15% 到 -25%,即 \$260-\$290。在 7/29 财报前如果有市场全面 risk-off 引发的回调,优先入场。)
 
-### 对话纪要
+### Conversation Log
 
 - User: 用 /momentum-scan 扫出今日 top 30,问 ARM 为什么近两个月一直在涨
 - Assistant: 拉了 5/6 财报 + 业务条线数据,初步回答:(a) Q4 FY26 财报数据中心 royalty YoY 翻倍;(b) AGI CPU + \$20 亿订单 + IBM 合作;(c) Wells Fargo / RBC 上修目标价(分别到 \$220 / \$260)。但强调当前 RSI 76 / MA20% +42 / Sig 🔴 — 不是入场点
