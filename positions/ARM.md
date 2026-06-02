@@ -25,3 +25,21 @@
 - User: 问 AMD 是否会在 ARM 真正铺开前抢占现有市场
 - Assistant: frame 错了。AGI CPU 和 AMD EPYC 不在同一 socket 竞争(AGI CPU 瞄准 AI cluster host CPU,EPYC 是通用服务器 CPU)。即便 AGI CPU 完全失败,ARM Holdings 仍通过 hyperscaler 内部 ARM 芯片(Graviton/Axion/Cobalt/Grace)抽税 — AMD 抢的是 Intel 的市场,对 ARM 中性甚至有利。真正的对手是 Nvidia Grace/Vera 和 hyperscaler 内部 SoC。hyperscaler capex 从 \$200B(2024)→ \$500B+(2027)容得下多个赢家
 - User: /commit-invest
+
+---
+## 2026-06-02 — Observation
+
+- TICKER: ARM
+- THEMES: ai-infra, semiconductors
+- WHAT: Nvidia 5/31 发布 RTX Spark Superchip(AI PC)与 Vera 数据中心处理器,两者的 CPU 均采用 ARM 定制设计,经 Dell/Lenovo/HP 出货;6/01 ARM 单日 +15.3% 收 \$408.85,盘中创历史新高 \$421.69。距 5/29 watch thesis(~\$345)仅两个交易日再涨 ~16%,3 个月 +229%(3/02 \$124 → \$409)。
+- WHY_IT_MATTERS: (1) 给 thesis 加了一条全新的腿 —— 从"数据中心版税"扩展到"AI PC 版税"(每颗 RTX Spark 也付 ARM 版税),Vera 是 Grace 下一代、继续 ARM 化;(2) 对照 5/29 的 6 条 INVALIDATION 全部未触发,其中"hyperscaler/Nvidia 回退 x86"被反向强化 —— 故事在变好不是变坏,conviction 可上调但 STANCE 仍是 watch;(3) 真正风险已从基本面转移到估值与微观结构:现价比分析师均值目标 \$241 高 ~70%,连 6/01 Barclays 维持 Overweight 的 \$360 新目标都已被甩开;90 天 29 次上调目标、0 次下调(卖方在追价);forward P/E ~135–160x、trailing ~415–475x、P/S ~76x;(4) 上季度(5/5)EPS 实际 \$0.29 vs 预期 \$0.37,miss -20.7% —— 这波是版税叙事 + 多重扩张驱动,不是利润驱动,故估值看似天文数字;(5) SoftBank ~90% 持股 / ~10% 流通盘双向放大,抛物线 +229% + 极薄流通盘 = blow-off top 风险。结论:长期 thesis 完好甚至增强,但现价更不是入场点;等 \$260–290(MA50)的纪律不变,回到该区间现需约 -29%~-36% 下杀,大概率要等全市场 risk-off 或 7/29 财报失望。
+- RELATED_THEMES: ai-infra, semiconductors
+- RELATED_TICKERS: NVDA(催化剂来源,RTX Spark/Vera 押注 ARM 架构), INTC/AMD/QCOM(x86 与 PC 端在位者,当日被砸), DELL(RTX Spark 出货伙伴)
+
+### Conversation Log
+
+- User: 帮我研究 ARM 最近一直大涨的原因,以及是否可持续
+- Assistant: 加载 5/29 watch thesis(当时 ~\$345、RSI 76、🔴 overextended、等回调 \$260–290),拉最新行情发现仅两个交易日后 6/01 单日 +15.3% 收 \$408.85、创历史新高;直接催化剂是 5/31 Nvidia 发布 RTX Spark(AI PC)+ Vera(数据中心)均采用 ARM 定制 CPU
+- Assistant: 把"可持续"拆成两层 —— ①业务转型(IP → AI 算力抽税器)真实且被进一步证实(新增 AI PC 版税腿、6 条 invalidation 全未触发、2 条反向强化);②现价是否可持续 = 否(比均值目标 \$241 高 70%、forward P/E ~150x、上季 EPS miss -20.7%、90% 锁仓双向放大 = blow-off 风险)
+- Assistant: 结论 —— 长期 thesis 保留/可升 conviction,但现价比 5/29 更不是入场点,等 \$260–290 纪律不变,需约 -29%~-36% 回调或 7/29 财报失望才会出现
+- User: /commit-invest(选择记为 Observation)
