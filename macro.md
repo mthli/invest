@@ -47,3 +47,19 @@
 
 - User: AVGO 财报后大跌,对 AI 板块可能会有什么影响
 - Assistant: 拉盘后同板块连带 —— MRVL -7.7%(最深)vs NVDA -1.1% / AMD -1.2% / ARM -0.7% / TSM -1.7% / DELL -1.9%。定性为"分化非 risk-off":若是需求恐慌 NVDA 会跌 5%+;市场只在重定价定制硅毛利 + 估值,需求被 >\$30B bookings 反证未顶。接 5/30、6/3 macro 的中段分化主线;升级线 = 是否扩散到 NVDA/TSM
+
+---
+
+## 2026-06-04 — Macro
+
+- REGIME: 下半年迎来**创纪录的 AI 权益供给潮** —— hyperscaler 净发行 + 三只 ~\$1T 级巨型 IPO(SpaceX/OpenAI/Anthropic)集中在数月内,定价机制从"按基本面"转向"**按资金流/流动性**";接 5/30、6/3、6/4 中段分化主线再加一层"供给/流动性"维度
+- DRIVERS: GOOGL \$84.75B 增发(\$40B ATM 三季度起,正压在秋季 IPO 定价窗);高盛估 2026 全美股权益供给 ~\$600B(其中 IPO ~\$160B、~100 单);五大 hyperscaler 今年 capex >\$600B、合计花掉经营现金流的 ~90%(去年 65%)—— 全员从回购转净发行。三大 IPO 均已递表:SpaceX(SPCX,路演 6/4、定价 6/11、6/12 上市,募 ~\$75B / 估值 ≥\$1.8T,**非 AI 算力消费方**,Starlink 占收入 69%)、OpenAI(机密 S-1 于 5/22,~9 月,\$852B–\$1T+)、Anthropic(机密 S-1 于 6/1,~10 月,刚融 \$65B / 估值 ~\$965B,run-rate ~\$47B、接近首次经营盈利,Google+Amazon 是其股东)。底层是**循环融资闭环**:hyperscaler 募资建算力 → 实验室是需求端(已锁 OpenAI ~2GW + Anthropic 最高 5GW)→ 实验室靠 IPO + hyperscaler 股权投资来付算力钱 → 回到公开市场
+- IMPLICATIONS: GOOGL 增发对三大 IPO 是**净供给/流动性逆风**(抢同一笔 AI 权益边际美元;\$40B ATM 与 9–10 月定价窗同月);情绪侧喜忧参半(确认 AI 需求承诺=利好需求叙事 vs 坐实"看毛利/稀释疲劳"regime=利空 pre-profit 估值,**烧钱的 OpenAI 比接近盈利的 Anthropic 更受伤**)。最该警惕**二阶风险**:IPO 的 S-1 会第一次把循环 / vendor-financing 闭环公开摊给公众投资者计价,一旦判定循环注水,杀伤同时打到 IPO 估值与 hyperscaler(含 GOOGL,其需求 backlog 依赖实验室付得起钱)。排序定生死:SpaceX(6/12,非 AI)是**试金石** —— 顺利消化则替秋季 AI IPO 打开窗口,吃力则提前给 OpenAI/Anthropic 泼冷水,且它先抽走一大块流动性
+- RELATED_THEMES: ai-infra
+- HORIZON: months
+- CONVICTION: med
+
+### Conversation Log
+
+- User: GOOGL \$84.75B 增发对下半年 SpaceX/OpenAI/Anthropic 上市有什么影响
+- Assistant: 先核实三家均已递表(SpaceX 6/12 募 ~\$75B@≥\$1.8T、OpenAI ~9 月 \$1T、Anthropic ~10 月 ~\$965B);四通道传导 —— ①供给挤出(\$40B ATM 与秋季定价窗撞月)②情绪/regime(show-me-margins,OpenAI 比 Anthropic 更受伤)③循环融资被 IPO 照出来的二阶风险 ④公开 comp 双向反馈;SpaceX 非 AI、是试金石且先抽流动性
