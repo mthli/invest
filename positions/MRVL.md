@@ -31,3 +31,22 @@
 
 - User: MRVL 还有光学连接等业务,也会受到 AVGO 的影响吗
 - Assistant: 拆两条腿 —— 定制硅腿被 AVGO 直接连坐(毛利 + 估值,-7.7%);光学/互联腿(PAM4/相干 DSP,源自 Inphi)相对抗跌,因为光互联是 who-wins-agnostic 的卖铲生意、且 AVGO 网络强劲反而背书光链需求(接 COHR/LITE/GLW 光链主题)。Caveat:短期盘面不分腿(当 AVGO 代理无差别卖)+ AVGO 的 CPO 是对 MRVL 可插拔光 DSP 的真实长期威胁。盯 MRVL 自己财报分部拆分
+
+---
+
+## 2026-06-05 — Observation
+
+- TICKER: MRVL
+- THEMES: ai-infra, semiconductors
+- WHAT: 同一份深度技术调查对 MRVL 的结论是"窄幅落后 + 宽幅紧追",非全面代差。落后在最值钱处:定制 ASIC 旗舰客户(仅 Amazon Trainium + 微软 Maia 两个锚客)、交换(~1 代)、量产 CPO(无)、封装上限。但 SerDes(3nm 224G LR,4 pJ/bit、2.5m 铜背板、48dB bump 损耗、1e-11 BER)已追到各执一词、制程(2nm 硅 IP 已演示)平手、光 DSP(PAM4/相干,Inphi 血统)当下反而领先。新利空证据:微软据 The Information 报道正与 AVGO 谈判,把 Maia 定制芯片设计从 MRVL 转走 —— MRVL 仅有两锚客之一可能被挖。对冲:据报拿到一片 Google TPU 推理 + 英伟达 2025-03 \$2B 投资/NVLink Fusion 合作。
+- WHY_IT_MATTERS: 精确化 6/3、6/4 两条 Observation 的"老二更脆""光学是独立腿":① MRVL 真问题不是"技术追不上",是结构性 subscale(营收约 AVGO 的 1/9、无长期供货承诺、客户高度集中且正被挖)—— 风险排序应为 客户流失(微软 Maia,已在发生)> CPO 多年期蚕食 DSP(2028-2030 才规模化,且英伟达自己是 CPO 龙头 + MRVL 自家 LPO 也自噬 DSP,非干净 AVGO-vs-MRVL)> 纯技术能力差距(最小,部分维度还领先);② 光 DSP 腿当下真领先被证实 —— 是 MRVL 唯一结构性强项,而 AVGO 的 CPO 瞄准的正是这条腿,但时间表长(可插拔本十年仍占多数)。一线侧:MRVL 工程师口碑反比 AVGO 好(Glassdoor 4.3★/90% 愿推荐/WLB 4.0),技术被多方评为"很强",但薪酬竞次(中位 ~\$208K vs AVGO ~\$500K)+ 更友好文化没换来旗舰赢单。维持 obs-only(未建仓)、仍是"入场抑制器"逻辑;关键 watch:若微软 Maia 留住 / MRVL 拿更大片 TPU,则"客户在逃"叙事被证伪。证据 caveat 同 AVGO 条(规格多为厂商 PR、无独立实测;MRVL 封装"已与 hyperscaler qualified 量产"与 2nm 深度能力两条声明在对抗验证中被证伪,实力低于其 PR 宣称)。
+- RELATED_THEMES: ai-infra, semiconductors
+- RELATED_TICKERS: AVGO(对比对象,最赚钱环节领先;CPO 瞄准 MRVL DSP 腿), MSFT(Maia 锚客,潜在 defection 至 AVGO 是新利空), AMZN(Trainium 另一锚客,经 Annapurna/Alchip), NVDA(2025-03 投 \$2B + NVLink Fusion 对冲,但自身也是 CPO 交换龙头), GOOGL(MRVL 据报拿一片 TPU 推理,去 AVGO 单一化的受益方)
+
+### Conversation Log
+
+- User: 对比 AVGO 和 MRVL 的技术路线与真实技术水平,详尽调查,最好含一线工程师反馈
+- Assistant: MRVL 结论"窄幅落后+宽幅紧追"非全面代差 —— 落后在旗舰客户/交换/CPO/封装,但 SerDes(3nm 224G 4pJ/bit)各执一词、制程平手、光 DSP(Inphi 血统)当下反而领先
+- Assistant: 新利空 —— 微软据 The Information 谈判把 Maia 设计从 MRVL 转给 AVGO(仅两锚客之一);对冲是一片 Google TPU 推理 + 英伟达 \$2B 投资;风险排序 客户流失>CPO 蚕食>纯技术差距
+- Assistant: 一线侧 MRVL 口碑反比 AVGO 好(4.3★/90% 推荐),技术被评"很强",但薪酬竞次(~\$208K)、友好文化没换来赢单;维持 obs-only,微软 Maia 去留是关键 watch
+- User: /commit-invest(记为两条 Observation:AVGO + MRVL)
