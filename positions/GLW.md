@@ -21,3 +21,22 @@
 - User: 康宁目前主要有哪些技术
 - Assistant: 拆底层护城河(3 核心技术:玻璃/陶瓷/光学物理 × 4 制造平台:气相沉积/挤出/熔融/精密成型)+ 各市场产品。强调当前 3 倍重定价只由光通信驱动(Contour 光纤、MMC/PRIZM 连接器、CPO、NVIDIA 长约),显示(熔融下拉/EAGLE/Astra)、Gorilla Glass、半导体光学(HPFS/ULE)、汽车陶瓷基底、生命科学(Valor 制药玻璃)、太阳能(Hemlock 多晶硅)是稳定底盘而非涨的理由;真正要跟踪的技术风险是光互联路线之争
 - User: /commit-invest
+
+---
+
+## 2026-06-05 — Observation
+
+- TICKER: GLW
+- THEMES: ai-infra
+- WHAT: 康宁不属于 CPO 或 DSP 任何一条"芯片路线",而是两条路线都要消耗的被动物理底层(玻璃 + 光纤 + 高密度连接器);CPO/DSP 之争发生在电光芯片层(AVGO = 唯一量产 CPO、MRVL = 光 DSP 领先,源自 Inphi),与康宁正交。
+- WHY_IT_MATTERS: 校正一个常见误判 —— 把康宁当成 CPO 或 DSP 的押注。实际它是 route-agnostic 卖铲人:DSP 模块和 CPO 模块都得用它的光纤 + 连接器。但若一定要归类,它净受益于 CPO/硅光浪潮而非 DSP:(1) CPO 把光引擎搬到封装旁,光纤数量暴增、且需要封装口可拆卸高密度连接器(康宁 MMC 32 纤、OFC 2026 "CPO 平台"正瞄准这里);(2) NVIDIA 长约直接绑在其 CPO/硅光交换机(Quantum-X / Spectrum-X Photonics)路线上;(3) DSP 那条对康宁中性 —— 无论模块继续用 DSP、还是转 LPO 线性驱动把 DSP 省掉,康宁照样卖光纤和连接器。结论:CPO 蚕食 DSP(2028–2030)主要威胁的是 MRVL 的 DSP 营收,对康宁是 content 放大的顺风,不是利空。
+- RELATED_THEMES: semiconductors
+- RELATED_TICKERS: AVGO, MRVL
+
+### Conversation Log
+
+- User: 康宁主要是 CPO 路线还是 DSP 路线
+- Assistant: 两条都不是康宁自己的"路线" —— 这是"电光芯片层"的事(DSP = MRVL/AVGO 的地盘,CPO = AVGO 唯一量产)。康宁是两条路线都要消耗的物理底层(玻璃 + 光纤 + 连接器),route-agnostic 卖铲人,自己一颗 DSP 都不做、也不卖 CPO 光引擎芯片。
+- Assistant: 若一定要归类,它骑 CPO/硅光这条浪(arms dealer)而非 DSP:CPO 放大单系统光纤/连接器用量、NVIDIA 长约绑在 CPO 交换机、MMC 连接器与 OFC "CPO 平台"瞄准这里;DSP 那条对它中性。CPO 蚕食 DSP(2028–2030)威胁的是 MRVL 的 DSP 营收,不是康宁。
+- Assistant: 提醒 —— 现有快照 invalidation #2 把 CPO 写成潜在利空("CPO/硅光替代部分光纤"),与"CPO 放大 content"叙事有张力;7/28 财报真正要验的是光通信增速 + 长约产能爬坡(net content 增减),而非 CPO 这个词本身的方向
+- User: /commit-invest
