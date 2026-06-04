@@ -31,3 +31,19 @@
 
 - User: 贴华尔街见闻文章,问 GOOGL 融资 \$80B 建 AI、而 AMZN 自由现金流早已归零意味着什么
 - Assistant: 先纠正文章只讲 GOOGL 不含 AMZN(AMZN FCF 归零另行查证属实);核实数字后给核心判断 —— 同一事实两种融资表现:AI 基建绝对规模已喂不饱最强现金机器。GOOGL 对外发股权(资本配置 180 度掉头 + Berkshire 当锚)/ AMZN 烧自己 FCF 到归零;确认 capex 超级周期在加速,但进入"现金打到报表"阶段,隐性熊市理由是折旧
+
+---
+
+## 2026-06-04 — Macro
+
+- REGIME: AI 交易"分化"具体化 —— AVGO 财报后盘后 -14%,但杀伤高度集中在定制硅子板块(MRVL -7.7%),通用 AI 链(NVDA -1.1% / AMD -1.2% / ARM -0.7% / TSM -1.7%)几乎没动。市场在重定价"定制硅毛利经济学 + priced-for-perfection 估值",而非"AI 需求"
+- DRIVERS: AVGO Q2 是 A 级(AI +143%、bookings >\$30B、Q3 AI 指引 +200%),盘后却崩 14%,三个利空全在前瞻:① Q3 AI \$16B < 街口 whisper \$17.2B;② FY27 \$100B AI 目标"维持"而非"上调";③ Q3 毛利率指引降到 ~74%(管理层称 AI 占比提高的组合稀释、非结构性)。若是需求恐慌 NVDA 会跌 5%+ 而非 -1% —— 盘后涨跌分布本身就证明:卖的是定制硅的毛利 + 估值,不是 AI 需求(bookings >\$30B 反证需求未顶)
+- IMPLICATIONS: 接 2026-05-30 / 2026-06-03 macro 的"中段分化"主线再加一个实弹案例 —— 市场开始在 AI 内部挑肥拣瘦:定制硅(AVGO/MRVL)面临毛利 + 估值审视;需求已证 + 卖铲(光互联,与"谁赢算力"无关)的名字更抗跌。定制硅天生比商用芯片毛利低(代设计、客户拿走更多价值、无 GPU 式定价垄断),"ASIC 放量稀释毛利"从 AVGO 个股升级为子板块问题。升级/降级判读线:跌幅锁在 AVGO+MRVL = 子板块毛利/估值重定价,AI 主线没破;若扩散到 NVDA/AMD/TSM(需求杠杆名字也放量跌)= 升级为 AI 需求/ROI 恐慌,届时全链(含 DELL 类低质量组装商)重估
+- RELATED_THEMES: ai-infra, semiconductors
+- HORIZON: months
+- CONVICTION: med
+
+### Conversation Log
+
+- User: AVGO 财报后大跌,对 AI 板块可能会有什么影响
+- Assistant: 拉盘后同板块连带 —— MRVL -7.7%(最深)vs NVDA -1.1% / AMD -1.2% / ARM -0.7% / TSM -1.7% / DELL -1.9%。定性为"分化非 risk-off":若是需求恐慌 NVDA 会跌 5%+;市场只在重定价定制硅毛利 + 估值,需求被 >\$30B bookings 反证未顶。接 5/30、6/3 macro 的中段分化主线;升级线 = 是否扩散到 NVDA/TSM
