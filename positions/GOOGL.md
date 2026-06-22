@@ -34,3 +34,29 @@
 - Assistant: 核实后发现 6/3 已上调定价至 \$84.75B(且这是股权增发,非发债 —— GOOGL 另有 2 月 ~\$30B 发债+百年债,是两回事);拆四档结构 + 可转条款(6.25% 票息 / 25% 溢价 / capped call);稀释 ~1.9–2.5%,股价 -3.9% → 6/4 ~\$363 已消化
 - User: ATM 是什么 / Q3 是什么时候
 - Assistant: ATM = 按市价、分批、公司择机向二级市场卖新股(开放式悬顶,压制反弹、稀释慢慢来);Q3 = 7–9 月,ATM 最早 7 月初启动
+
+---
+
+## 2026-06-22 — Thesis
+
+- TICKER: GOOGL
+- THEMES: ai-infra
+- STANCE: exit
+- HORIZON: months
+- THESIS: 持有 GOOGL 15–30% 权重是一个超配的"惯性仓位"—— 信念是动量而非成文 thesis(journal 此前为 obs-only、无 INVALIDATION),而动量已在 4–5 周下跌中破掉(一年多来最长连跌、5 周内 ~−11%)。此前记录的熊市压力正按剧本向下兑现:capex regime 掉头(2026 capex 指引 \$175–185B ≈ 前一年 ~2 倍、Street 原预期 ~\$120B)压垮自由现金流(Q1 FCF 同比 −47% 至 \$10.1B、FY26 一致预期 ~−72%、Melius 预计未来数年转负)+ \$84.75B 稀释增发 + 商业模式心脏的反垄断/监管腿此刻印证(6/22 加州法院裁定 Section 230 不保护"平台设计"、坐实成瘾设计责任并招 copycat 诉讼 + 英国青少年安全新规点名 YouTube)。但无新的基本面暴雷(Cloud +48%、Gemini MAU ~7.5 亿未变差)—— 是估值/法律/资本配置层面的 de-rating,不是生意塌了。决策:把惯性超配减到单位数 % 的 core(砍约 ½–⅔),分批往跌破的 \$356–363 带反弹减,而非在 6/22 −4.8%(盘中跳空续跌至 ~\$350)的红 K 里一把清;凭 +30% 盈利垫留小 core 保结构性赢家 optionality(自研 TPU / Cloud / 分发护城河)。合自己方法论(先砍 vol-per-dollar):GOOGL = 高 ATR(~3%/天)+ 下行趋势 + 超配 = 教科书式第一个该减的对象。
+- CATALYSTS: Q2 财报 capex/FCF 实际兑现(FCF 恶化数字落地);\$40B ATM 三季度执行(开放式悬顶压反弹);OpenAI(~9 月)/ Anthropic(~10 月、估值 \$965B)IPO 供给抢同一笔 AI 权益边际美元;反垄断进程(DOJ 交叉上诉仍要 Chrome 拆分、D.C. 巡回法院 2026 末/2027 初开庭;欧盟用发布商内容训 AI 调查);Gemini 竞争继续掉队(6/18 Noam Shazeer 出走 OpenAI、份额 ~13.5% 落后 ChatGPT ~60%)
+- INVALIDATION: 减仓 thesis 的反向触发(说明该停止减、甚至减错了):GOOGL 重新站稳 \$363+ 增发消化带 且 de-rating 驱动缓解(capex/FCF 能见度改善,或反垄断 overhang 出现有利裁决)。下行加速触发:决定性跌穿前低 \$346.36 → 加速减(下一台阶打开)
+- CONVICTION: high
+- ENTRY_PRICE: ~\$269(既有平均成本;\$350 现价约 +30%)
+- RELATED_TICKERS: AVGO, AMZN, META
+
+### Conversation Log
+
+- User: 看看谷歌的 ATR 止损价
+- Assistant: 算出 ATR(14)≈\$10.95(~3% 现价),2× 止损 ~\$334 / 3× ~\$323;指出 journal 为 obs-only、无入场价无 INVALIDATION,且吊灯止损已失效(已从近高回撤 ~9.5%)
+- User: 调研一下今天谷歌跌的原因
+- Assistant: 6/22 跳空低开(周四收 \$368 → 周一开 \$357.88 → 盘中 ~\$350、−4.8%);当日触发 = 加州 Section 230 裁决 + 英国青少年监管点名 YouTube;背景 = capex/FCF de-rating(连第 4–5 周跌)+ AI 竞争(Shazeer 出走、Gemini 掉队)+ 反垄断;判定为估值/法律/资本配置双杀,非基本面暴雷
+- User: 我在想是不是要卖出一部分谷歌
+- Assistant: 重构问题 —— obs-only = 持有却没写为什么持有/何时退出;问了三个定仓事实
+- User: 答 15–30% 超配 / +30% 盈利 / 主要是惯性
+- Assistant: 三条叠起来 = 明确实质性减仓;减到单位数 core(砍 ½–⅔)、分批往 \$356–363 反弹减、留小 core,\$346.36 跌穿则加速;别在今天红 K 一把清
